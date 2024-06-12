@@ -56,7 +56,7 @@
                 . Address [Url/IP/Port]
                 . Route
                 . Header/ Body/ Query Params
-                . Method
+                . Method [Common methods are :  GET, POST, PUT, DELETE]
 
         . HTTP Sever Side :
                 . Response Header
